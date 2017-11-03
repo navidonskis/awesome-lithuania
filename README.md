@@ -8,7 +8,7 @@
 
 - [Videos](#videos)
 - [Articles](#articles)
-- [Meetups & Events](#meetups-and-events)
+- [Meetups & Events](#meetups--events)
     - [Vilnius](#vilnius)
     - [Kaunas](#kaunas)
 
