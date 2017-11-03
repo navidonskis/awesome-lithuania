@@ -34,11 +34,19 @@
 - [VilniusPHP](https://www.meetup.com/vilniusphp) - Engineers are gathering every first Thursday of the month.
 - [VilniusJS](https://www.meetup.com/Vilnius-js/) - Javascript meetup in Vilnius, once a month.
 - [VilniusJUG](http://vilnius-jug.lt/) - Vilnius JUG (Java User Group) - Vilnius Java & JVM enthusiasts.
-- [Vilnius Hack And Tell](https://www.meetup.com/vilnius-hack-and-tell) - Event of [NYC](http://www.meetup.com/hack-and-tell/) and [Berlin](https://www.meetup.com/Berlin-Hack-and-Tell/) clone. Five minutes to present your project. 
+- [Vilnius Hack And Tell](https://www.meetup.com/vilnius-hack-and-tell) - Event of [NYC](http://www.meetup.com/hack-and-tell) and [Berlin](https://www.meetup.com/Berlin-Hack-and-Tell) clone. Five minutes to present your project. 
 - [Technarium](https://www.meetup.com/Technarium) - People with technology-related interests can collaborate, work on their projects, share their knowledge and skills.
 - [Vilnius Blockchain Club](https://www.meetup.com/Vilnius-Blockchain-Club) - This is a group for anyone interested in Blockchain and all related technologies.
 - [Vilnius Tech Leads](http://techleads.lt) - A meetup for Vilnius CTOs, VPs of Engineering, Tech Leads and other technologists, who'd like to share experience and become better leaders.
 - [VilniusRB](http://vilniusrb.lt) - VilniusRB is a meetup and community of people who like Ruby, based in Vilnius.
+- [Docker Vilnius](https://www.meetup.com/Docker-Vilnius) - Enthusiast's, DevOp's, Engineer's are getting together to talk about docker. Few workflow's, docker's birthday cake, t-shirts and stickers!
+- [Vilnius Golang](https://www.meetup.com/Vilnius-Golang) - Hello Vilnius from Gophers Engineers.
+- [Vilnius Machine Learning Meetup](https://www.meetup.com/VilniusML) - Open and self-thought community introduce to Machine Learning.
+- [Startup Grind Vilnius](https://www.meetup.com/Startup-Grind-Vilnius) - Global startup community designed to educate, inspire, and connect entrepreneurs.
+- [Vilnius Startup Founder 101](https://www.meetup.com/Vilnius-Startup-Founder-101) - Startup Founder 101 brings together aspiring and experienced tech entrepreneurs to discuss, meet, and collaborate to build great new startups, and to push the local startup ecosystem forward.
+- [HackerNest Vilnius](https://www.meetup.com/HackerNestVIL) - HackerNest is an international nonprofit community movement focused on building supportive Silicon Valley like tech communities in every city - strengthening local tech ecosystems globally through unpretentious social events and hackathons.
+- [Functional Vilnius](https://www.meetup.com/functional-vilnius) - Functional Vilnius is a meetup group for everyone interested in functional programming and/or type-driven software development.
+- [Hyperledger Vilnius](https://www.meetup.com/Hyperledger-Vlnius) - Open source collaborative effort created to advance cross-industry blockchain technologies.
 
 
 ### Kaunas
