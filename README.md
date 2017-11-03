@@ -6,6 +6,12 @@
 
 ## Contents
 
+- [Videos](#videos)
+- [Articles](#articles)
+- [Meetups & Events](#meetups-and-events)
+    - [Vilnius](#vilnius)
+    - [Kaunas](#kaunas)
+
 	...
 
 ## Videos
@@ -16,7 +22,21 @@
 
 	...
 
-## Meetups
+## Meetups & Events
+
+### Vilnius
+
+- [VilniusPHP](https://www.meetup.com/vilniusphp) - Engineers are gathering every first Thursday of the month.
+- [VilniusJS](https://www.meetup.com/Vilnius-js/ - Javascript meetup in Vilnius, once a month.
+- [VilniusJUG](http://vilnius-jug.lt/) - Vilnius JUG (Java User Group) - Vilnius Java & JVM enthusiasts
+
+### Kaunas
+
+- [KaunasPHP](https://www.meetup.com/KaunasPHP) - PHP meetup in Kaunas, every third wednesday of the month.
+- [KaunasJS](http://kaunasjs.lt/) - Javascript meetup in Kaunas, once a month.
+- [KaunasPy](https://www.meetup.com/KaunasPy) - Group for people interested in Python programming language.
+
+## Conferences
 
 	...
 
