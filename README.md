@@ -16,7 +16,12 @@
 
 ## Videos
 
-	...
+- [Lithuania | Not what we expected](https://www.youtube.com/watch?v=o9ZJEx-t2z0) - Visiting the [Hill of Crosses](https://en.wikipedia.org/wiki/Hill_of_Crosses) which has over 200,000 crosses.
+- [24 HRS in Vilnius Lithuania - Travel Guide](https://www.youtube.com/watch?v=qR1_AWCEaZs) - Vilnius is the capital city of Lithuania. Spend 24 hours getting to know the city as much as possible.
+- [Trakai Island Castle Tour](https://www.youtube.com/watch?v=aw4zrGCL5NI) - Trakai Island Castle is just 30 minutes from Vilnius and many tours go there.
+- [American explores Vilnius](https://www.youtube.com/watch?v=ymxU1Gqpsqk) - Evan Edinger exploring Vilnius.
+- [Exploring LITHUANIA](https://www.youtube.com/watch?v=f5T-PmyX054) - It's such an interesting country with amazing food!
+- [Finally A Trip to VILNIUS ❤](https://www.youtube.com/watch?v=4hasN8Xx3D8) - "Finally I did and I am so happy, Vilnius is such a beautiful place."
 
 ## Articles
 
