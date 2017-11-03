@@ -7,12 +7,11 @@
 ## Contents
 
 - [Videos](#videos)
-- [Articles](#articles)
 - [Meetups & Events](#meetups--events)
     - [Vilnius](#vilnius)
     - [Kaunas](#kaunas)
-
-	...
+- [Tourism](#tourism)
+	- [Discovery maps](#discovery-maps)
 
 ## Videos
 
@@ -22,10 +21,6 @@
 - [American explores Vilnius](https://www.youtube.com/watch?v=ymxU1Gqpsqk) - Evan Edinger exploring Vilnius.
 - [Exploring LITHUANIA](https://www.youtube.com/watch?v=f5T-PmyX054) - It's such an interesting country with amazing food!
 - [Finally A Trip to VILNIUS ❤](https://www.youtube.com/watch?v=4hasN8Xx3D8) - "Finally I did and I am so happy, Vilnius is such a beautiful place."
-
-## Articles
-
-	...
 
 ## Meetups & Events
 
@@ -56,9 +51,13 @@
 - [KaunasPy](https://www.meetup.com/KaunasPy) - Group for people interested in Python programming language.
 - [Kaunas WordPress Meetup](https://www.meetup.com/Kaunas-WordPress-Meetup) - This WordPress Meetup is open to all who love WordPress.
 
-## Conferences
+## Tourism
 
-	...
+### Discovery maps
+
+- [Lietuvon](https://www.google.com/maps/d/viewer?mid=1fsbbjLhR0yt88yeY4OPh3ODFNtA&ll=55.15967070217915%2C22.919227763098206&z=7) - You'll find a huge map with points to travel. The maintainer of map is [lietuvon.lt](https://www.lietuvon.lt).
+- [Turisto pasaulis](https://www.google.lt/maps/@55.3262968,22.2173499,354307m/data=!3m1!1e3!4m2!6m1!1s1vASPNoEr2e_tSdsp0tmc1noJOMI) - A bit smaller map then `Lietuvon`, but also useful.
+- [Vilnius Cam's](https://www.google.lt/maps/@54.6958638,25.2892313,8464m/data=!3m1!1e3!4m2!6m1!1s1-v-xe-5i9yVffXXUEMsCre2cXiQ) - A map of Vilnius camera's.
 
 ## License
 
