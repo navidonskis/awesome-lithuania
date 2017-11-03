@@ -27,7 +27,7 @@
 ### Vilnius
 
 - [VilniusPHP](https://www.meetup.com/vilniusphp) - Engineers are gathering every first Thursday of the month.
-- [VilniusJS](https://www.meetup.com/Vilnius-js/ - Javascript meetup in Vilnius, once a month.
+- [VilniusJS](https://www.meetup.com/Vilnius-js/) - Javascript meetup in Vilnius, once a month.
 - [VilniusJUG](http://vilnius-jug.lt/) - Vilnius JUG (Java User Group) - Vilnius Java & JVM enthusiasts
 
 ### Kaunas
