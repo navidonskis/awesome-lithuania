@@ -21,6 +21,8 @@
 - [American explores Vilnius](https://www.youtube.com/watch?v=ymxU1Gqpsqk) - Evan Edinger exploring Vilnius.
 - [Exploring LITHUANIA](https://www.youtube.com/watch?v=f5T-PmyX054) - It's such an interesting country with amazing food!
 - [Finally A Trip to VILNIUS ❤](https://www.youtube.com/watch?v=4hasN8Xx3D8) - "Finally I did and I am so happy, Vilnius is such a beautiful place."
+- [Expoza Travel](https://www.youtube.com/watch?v=0zF63OHIuqg) - Vilnius (Lithuanian) Vacation Travel Video Guide.
+- [Expoza Travel](https://www.youtube.com/watch?v=a64ixvlYSPM) - Lithuania (Europe) Vacation Travel Video Guide.
 
 ## Meetups & Events
 
