@@ -28,13 +28,17 @@
 
 - [VilniusPHP](https://www.meetup.com/vilniusphp) - Engineers are gathering every first Thursday of the month.
 - [VilniusJS](https://www.meetup.com/Vilnius-js/) - Javascript meetup in Vilnius, once a month.
-- [VilniusJUG](http://vilnius-jug.lt/) - Vilnius JUG (Java User Group) - Vilnius Java & JVM enthusiasts
+- [VilniusJUG](http://vilnius-jug.lt/) - Vilnius JUG (Java User Group) - Vilnius Java & JVM enthusiasts.
+- [Vilnius Hack And Tell](https://www.meetup.com/vilnius-hack-and-tell) - Event of [NYC](http://www.meetup.com/hack-and-tell/) and [Berlin](https://www.meetup.com/Berlin-Hack-and-Tell/) clone. Five minutes to present your project. 
+- [Technarium](https://www.meetup.com/Technarium) - People with technology-related interests can collaborate, work on their projects, share their knowledge and skills.
+- [Vilnius Blockchain Club](https://www.meetup.com/Vilnius-Blockchain-Club) - This is a group for anyone interested in Blockchain and all related technologies.
 
 ### Kaunas
 
 - [KaunasPHP](https://www.meetup.com/KaunasPHP) - PHP meetup in Kaunas, every third wednesday of the month.
 - [KaunasJS](http://kaunasjs.lt/) - Javascript meetup in Kaunas, once a month.
 - [KaunasPy](https://www.meetup.com/KaunasPy) - Group for people interested in Python programming language.
+- [Kaunas WordPress Meetup](https://www.meetup.com/Kaunas-WordPress-Meetup) - This WordPress Meetup is open to all who love WordPress.
 
 ## Conferences
 
