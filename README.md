@@ -32,6 +32,9 @@
 - [Vilnius Hack And Tell](https://www.meetup.com/vilnius-hack-and-tell) - Event of [NYC](http://www.meetup.com/hack-and-tell/) and [Berlin](https://www.meetup.com/Berlin-Hack-and-Tell/) clone. Five minutes to present your project. 
 - [Technarium](https://www.meetup.com/Technarium) - People with technology-related interests can collaborate, work on their projects, share their knowledge and skills.
 - [Vilnius Blockchain Club](https://www.meetup.com/Vilnius-Blockchain-Club) - This is a group for anyone interested in Blockchain and all related technologies.
+- [Vilnius Tech Leads](http://techleads.lt) - A meetup for Vilnius CTOs, VPs of Engineering, Tech Leads and other technologists, who'd like to share experience and become better leaders.
+- [VilniusRB](http://vilniusrb.lt) - VilniusRB is a meetup and community of people who like Ruby, based in Vilnius.
+
 
 ### Kaunas
 
