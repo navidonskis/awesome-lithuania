@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" width="100px" align="right" alt="Lithuania">
 
-# Awesome Lithuania [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Lithuania [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of things that show the awesome side of Lithuania
 
@@ -15,14 +15,14 @@
 
 ## Videos
 
-- [Lithuania | Not what we expected](https://www.youtube.com/watch?v=o9ZJEx-t2z0) - Visiting the [Hill of Crosses](https://en.wikipedia.org/wiki/Hill_of_Crosses) which has over 200,000 crosses.
-- [24 HRS in Vilnius Lithuania - Travel Guide](https://www.youtube.com/watch?v=qR1_AWCEaZs) - Vilnius is the capital city of Lithuania. Spend 24 hours getting to know the city as much as possible.
+- [Not what we expected](https://www.youtube.com/watch?v=o9ZJEx-t2z0) - Visiting the [Hill of Crosses](https://en.wikipedia.org/wiki/Hill_of_Crosses) which has over 200,000 crosses.
+- [24hrs in Vilnius - Travel Guide](https://www.youtube.com/watch?v=qR1_AWCEaZs) - Spend 24 hours getting to know the city as much as possible.
 - [Trakai Island Castle Tour](https://www.youtube.com/watch?v=aw4zrGCL5NI) - Trakai Island Castle is just 30 minutes from Vilnius and many tours go there.
 - [American explores Vilnius](https://www.youtube.com/watch?v=ymxU1Gqpsqk) - Evan Edinger exploring Vilnius.
-- [Exploring LITHUANIA](https://www.youtube.com/watch?v=f5T-PmyX054) - It's such an interesting country with amazing food!
-- [Finally A Trip to VILNIUS ❤](https://www.youtube.com/watch?v=4hasN8Xx3D8) - "Finally I did and I am so happy, Vilnius is such a beautiful place."
-- [Expoza Travel](https://www.youtube.com/watch?v=0zF63OHIuqg) - Vilnius (Lithuanian) Vacation Travel Video Guide.
-- [Expoza Travel](https://www.youtube.com/watch?v=a64ixvlYSPM) - Lithuania (Europe) Vacation Travel Video Guide.
+- [Exploring](https://www.youtube.com/watch?v=f5T-PmyX054) - It's such an interesting country with amazing food!
+- [Trip to Vilnius](https://www.youtube.com/watch?v=4hasN8Xx3D8) - "Finally I did and I am so happy, Vilnius is such a beautiful place."
+- [Expoza Travel](https://www.youtube.com/watch?v=0zF63OHIuqg) - Vilnius Vacation Travel Video Guide.
+- [Expoza Travel](https://www.youtube.com/watch?v=a64ixvlYSPM) - Vacation Travel Video Guide.
 
 ## Meetups & Events
 
