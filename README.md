@@ -11,7 +11,8 @@
     - [Vilnius](#vilnius)
     - [Kaunas](#kaunas)
 - [Tourism](#tourism)
-	- [Discovery maps](#discovery-maps)
+    - [Discovery maps](#discovery-maps)
+    - [Events and Guides](#events-and-guides)
 
 ## Videos
 
