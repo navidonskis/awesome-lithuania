@@ -61,6 +61,14 @@
 - [Turisto pasaulis](https://www.google.lt/maps/@55.3262968,22.2173499,354307m/data=!3m1!1e3!4m2!6m1!1s1vASPNoEr2e_tSdsp0tmc1noJOMI) - A bit smaller map then `Lietuvon`, but also useful.
 - [Vilnius Cam's](https://www.google.lt/maps/@54.6958638,25.2892313,8464m/data=!3m1!1e3!4m2!6m1!1s1-v-xe-5i9yVffXXUEMsCre2cXiQ) - A map of Vilnius camera's.
 
+### Events and Guides
+
+- [Site of Government](http://www.vilnius.lt/kalbos/?lang=en) - Latest news from government, about infrastructure, culture etc.
+- [Vilnius Convention](http://www.vilnius-convention.lt/en) - Meeting Planning, About Vilnius, Calendar, Material, etc.
+- [Vilnius Tourism](http://www.vilnius-tourism.lt/) - Accurate information on Vilnius attractions, events, restaurants, nightlife, shopping, hotels, transportation and much more.
+- [Vilnius Events](http://www.vilnius-events.lt/en/) - Vilnius cultural calendar is full of events. Event calendar with concerts, theatre, shows, opera, sports, etc.
+- [Vilnius City Card's](http://www.vilnius-tourism.lt/en/vtic/services/vilnius-city-card/) - Get your city card to travel at Vilnius with public transport.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
