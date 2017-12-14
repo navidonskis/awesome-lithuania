@@ -61,6 +61,7 @@
 - [Lietuvon](https://www.google.com/maps/d/viewer?mid=1fsbbjLhR0yt88yeY4OPh3ODFNtA&ll=55.15967070217915%2C22.919227763098206&z=7) - You'll find a huge map with points to travel. The maintainer of map is [lietuvon.lt](https://www.lietuvon.lt).
 - [Turisto pasaulis](https://www.google.lt/maps/@55.3262968,22.2173499,354307m/data=!3m1!1e3!4m2!6m1!1s1vASPNoEr2e_tSdsp0tmc1noJOMI) - A bit smaller map then `Lietuvon`, but also useful.
 - [Vilnius Cam's](https://www.google.lt/maps/@54.6958638,25.2892313,8464m/data=!3m1!1e3!4m2!6m1!1s1-v-xe-5i9yVffXXUEMsCre2cXiQ) - A map of Vilnius camera's.
+- [IN Alytų](https://www.google.com/maps/d/u/0/viewer?mid=1G5VexKfPn8pVZX8ywOuTBK18xeBhm7j_&ll=54.438112332389025%2C24.070109429931676&z=11) - most wonderfull places of south Lithuania (Dzukija). [IN Alytų](https://inalytu.win/).
 
 ### Events and Guides
 
