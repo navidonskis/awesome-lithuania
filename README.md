@@ -24,6 +24,7 @@
 - [Trip to Vilnius](https://www.youtube.com/watch?v=4hasN8Xx3D8) - "Finally I did and I am so happy, Vilnius is such a beautiful place."
 - [Expoza Travel](https://www.youtube.com/watch?v=0zF63OHIuqg) - Vilnius Vacation Travel Video Guide.
 - [Expoza Travel](https://www.youtube.com/watch?v=a64ixvlYSPM) - Vacation Travel Video Guide.
+- [IN Alytų - turistinis maršrutas Dzūkijoje](https://www.youtube.com/watch?v=4yLjcS8tOxw) - Tourist route at Dzukija
 
 ## Meetups & Events
 
