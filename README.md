@@ -14,6 +14,8 @@
     - [Discovery maps](#discovery-maps)
     - [Events and Guides](#events-and-guides)
 - [History](#history)
+- [Radio](#radio)
+- [TV & Media](#tv--media)
 
 ## Videos
 
@@ -77,6 +79,36 @@
 
 - [Interwar Architecture](http://tarpukaris.autc.lt/en) - The webpage is aimed to represent Lithuanian interwar architecture and being operated within the framework of project "Heritage Research: Aspects of Tangible and Intangible in Lithuanian architecture of 1918-1940".
 - [Architecture and Urbanism Research Centre](http://www.autc.lt/en) - Architecture and Urbanism Research Centre established in Institute of Architecture and Construction of Kaunas University of Technology and develops the researches of history and heritage of Lithuanian architecture which was started in 1956.
+
+## Radio
+
+- [M-1](http://www.m-1.fm/) - M-1 is the first commercial radio station in Lithuania, broadcasting from the capital city of Vilnius. The station was established on 31 December 1989.
+- [RC](http://rc.lt/) - Radiocentras is a commercial radio station in Lithuania, broadcasting from capital city of Vilnius. Established in 1991.
+- [ZIP FM](http://www.zipfm.lt/) - ZIP FM is a commercial radio station in Lithuania, broadcasting from capital city of Vilnius. Started on 1 July 2005.
+- [Power Hit Radio](http://www.powerhitradio.lt/) - Power Hit Radio is a commercial radio station in Lithuania that plays dance music aimed at listeners aged around 15 to 35.
+- [LRT Klasika](http://www.lrt.lt/en/channels/LRT-KLASIKA) - LRT Klasika is a Lithuanian radio channel dedicated to culture and classical music and produced by Lithuanian National Radio and Television (LRT).
+
+## TV & Media
+
+- [LRT](http://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija) - Lithuanian National Radio and Television (LRT) is a non-profit public broadcaster that has been providing regular radio services since 1926 and television broadcasts since 1957.
+- [LRT Kultūra](http://www.lrt.lt/mediateka/tiesiogiai/lrt-kultura) - The LRT KULTŪRA main premise is broadcasting of culture, educational, information and regional programming aimed at rallying a larger regional viewer audience.
+- [LRT Lituanica](http://www.lrt.lt/mediateka/tiesiogiai/lrt-lituanica) - LRT LITUANICA viewers are offered news, culture, investigative journalism and debate programmes, quality entertainment and children’s programmes. All programmes are broadcast in Lithuanian.
+- [LRT Mediateka](http://www.lrt.lt/mediateka) - An online media's records of LRT.
+- [TV3](http://tv.tv3.lt/) - TV3 is a commercial television channel. 1997-2017 owned by Modern Times Group (MTG) and targeted at a Lithuanian-speaking audience. At 2017 Providence Equity Partners bought TV3 (baltics), and all sisters channels and radios in Lithuania, Latvia and Estonia for 115 mln. €. Lithuania was first to launch TV3 in the baltics on April 11, 1993.
+- [TV6](http://tv6.tv3.lt/) - TV6 is a Lithuanian terrestrial, satellite and cable television channel owned by the Nordic television company Viasat. It was launched on March 31, 2002.
+- [TV8](http://tv8.tv3.lt/) - TV8 is a Lithuanian terrestrial, satellite and cable television channel aimed at women, owned by the Nordic television company Viasat. It was launched on 3 October 2011.
+- [TV3 Play](https://play.tv3.lt/) - Media archive of TV3, TV6, TV8.
+- [LNK](http://lnk.lt/) - LNK TV, also known as Laisvas ir Nepriklausomas Kanalas ("Free and Independent Channel"), is one of the major commercial TV channels in Lithuania. It was founded in 1995. It has four sister channels: TV1, Info TV, Liuks! and BTV.
+- [BTV](http://www.btv.lt/) - BTV (Baltijos TV) is a Lithuanian television station, established in 1993. BTV broadcasts 24 hours a day and has its headquarters in Vilnius.
+- [TV1](http://www.tv1.lt/) - TV1 is a TV channel in Lithuania, launched in 2003. It is a sister channel of LNK television.
+- [Info TV](http://www.infotv.lt/) - Info TV is a Lithuanian news television station owned and operated by LNK. It started to air on 12 November 2007. The channel range is 97% of Lithuanian television users. Since 5 March 2012, Info TV airs 24/7.
+- [Liuks!](http://www.liukstv.lt/) - Liuks! is a Lithuanian television channel owned and operated by LNK. It broadcasts 24 hours a day.
+- [Viasat Sport Baltic](https://www.viasat.lt/sportas) - Viasat Sport Baltic is a TV sports channel available in the Baltic States. The channel was launched 7 January 2009.
+- [Lietuvos rytas TV](https://tv.lrytas.lt/) - Lietuvos ryto TV is a Lithuanian entertainment channel founded at 12 October 2008.
+- [Sport1 (Lithuania)](https://www.sport1.lt/) - Sport1 is a Lithuanian sport channel founded on 16 August 2008.
+- [Šiauliai TV](http://www.stv.lt/) - Siauliai County Television founded in 1991.
+- [Balticum TV](http://www.balticumtelevizija.lt/) - Balticum TV channel program consists of news, direct news and debates, publicity, entertainment, films.
+- [Balticum Auksinis](http://www.balticum.lt/lt/tv-programos/balticum-auksinis/) - Movies are transmitted every two hours, inserting originally mounted notes between movies. No advertising, no commerce.
 
 ## License
 
