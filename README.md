@@ -82,11 +82,11 @@
 
 ## Radio
 
-- [M-1](http://www.m-1.fm/) - M-1 is the first commercial radio station in Lithuania, broadcasting from the capital city of Vilnius. The station was established on 31 December 1989.
+- [M-1](http://www.m-1.fm/) - Is the first commercial radio station in Lithuania, broadcasting from the capital city of Vilnius. The station was established on 31 December 1989.
 - [RC](http://rc.lt/) - Radiocentras is a commercial radio station in Lithuania, broadcasting from capital city of Vilnius. Established in 1991.
-- [ZIP FM](http://www.zipfm.lt/) - ZIP FM is a commercial radio station in Lithuania, broadcasting from capital city of Vilnius. Started on 1 July 2005.
-- [Power Hit Radio](http://www.powerhitradio.lt/) - Power Hit Radio is a commercial radio station in Lithuania that plays dance music aimed at listeners aged around 15 to 35.
-- [LRT Klasika](http://www.lrt.lt/en/channels/LRT-KLASIKA) - LRT Klasika is a Lithuanian radio channel dedicated to culture and classical music and produced by Lithuanian National Radio and Television (LRT).
+- [ZIP FM](http://www.zipfm.lt/) - Is a commercial radio station in Lithuania, broadcasting from capital city of Vilnius. Started on 1 July 2005.
+- [Power Hit Radio](http://www.powerhitradio.lt/) - Is a commercial radio station in Lithuania that plays dance music aimed at listeners aged around 15 to 35.
+- [LRT Klasika](http://www.lrt.lt/en/channels/LRT-KLASIKA) - Is a Lithuanian radio channel dedicated to culture and classical music and produced by Lithuanian National Radio and Television (LRT).
 
 ## TV & Media
 
