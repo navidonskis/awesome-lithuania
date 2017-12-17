@@ -13,6 +13,7 @@
 - [Tourism](#tourism)
     - [Discovery maps](#discovery-maps)
     - [Events and Guides](#events-and-guides)
+- [History](#history)
 
 ## Videos
 
@@ -71,6 +72,11 @@
 - [Vilnius Tourism](http://www.vilnius-tourism.lt/) - Accurate information on Vilnius attractions, events, restaurants, nightlife, shopping, hotels, transportation and much more.
 - [Vilnius Events](http://www.vilnius-events.lt/en/) - Vilnius cultural calendar is full of events. Event calendar with concerts, theatre, shows, opera, sports, etc.
 - [Vilnius City Card's](http://www.vilnius-tourism.lt/en/vtic/services/vilnius-city-card/) - Get your city card to travel at Vilnius with public transport.
+
+## History
+
+- [Interwar Architecture](http://tarpukaris.autc.lt/en) - The webpage is aimed to represent Lithuanian interwar architecture and being operated within the framework of project "Heritage Research: Aspects of Tangible and Intangible in Lithuanian architecture of 1918-1940".
+- [Architecture and Urbanism Research Centre](http://www.autc.lt/en) - Architecture and Urbanism Research Centre established in Institute of Architecture and Construction of Kaunas University of Technology and develops the researches of history and heritage of Lithuanian architecture which was started in 1956.
 
 ## License
 
