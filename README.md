@@ -15,6 +15,7 @@
     - [Discovery maps](#discovery-maps)
     - [Events and Guides](#events-and-guides)
 - [Museums](#museums)
+    - [Vilnius](#vilnius-1)
 - [History](#history)
 - [Radio](#radio)
 - [TV & Records](#tv--records)
@@ -84,6 +85,8 @@
 - [Vilnius City Card's](http://www.vilnius-tourism.lt/en/vtic/services/vilnius-city-card/) - Get your city card to travel at Vilnius with public transport.
 
 ## Museums
+
+### Vilnius
 
 - [Planetarium](http://planetarium.tfai.vu.lt/) - Planetarium based by Vilnius University. Once in a country specialised astronomy and nature science centre.
 - [Money Museum](http://www.pinigumuziejus.lt/en/) - Free informative tours in the Money Museum!
