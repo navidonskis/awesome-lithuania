@@ -103,6 +103,8 @@
 - [ZIP FM](http://www.zipfm.lt/) - Is a commercial radio station in Lithuania, broadcasting from capital city of Vilnius. Started on 1 July 2005.
 - [Power Hit Radio](http://www.powerhitradio.lt/) - Is a commercial radio station in Lithuania that plays dance music aimed at listeners aged around 15 to 35.
 - [LRT Klasika](http://www.lrt.lt/en/channels/LRT-KLASIKA) - Is a Lithuanian radio channel dedicated to culture and classical music and produced by Lithuanian National Radio and Television (LRT).
+- [Geras FM](http://www.gerasfm.lt/) - 90's hits radio station.
+- [Lietus FM](http://www.lietus.fm/) - Live radio station playing most of Lithuanian, adult contemporary and etc. genres music.
 
 ## TV & Records
 
