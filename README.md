@@ -6,6 +6,7 @@
 
 ## Contents
 
+- [Articles](#articles)
 - [Videos](#videos)
 - [Meetups & Events](#meetups--events)
     - [Vilnius](#vilnius)
@@ -15,7 +16,13 @@
     - [Events and Guides](#events-and-guides)
 - [History](#history)
 - [Radio](#radio)
-- [TV & Media](#tv--media)
+- [TV & Records](#tv--records)
+- [Media](#media)
+- [Studies](#studies)
+
+## Articles
+
+ - [Lithuania celebrates 100](http://www.lietuva.lt/100/en) - Lithuania celebrates a Centenary of the Restoration of the State. Read the news from Lithuania and around the world.
 
 ## Videos
 
@@ -36,7 +43,7 @@
 - [VilniusPHP](https://www.meetup.com/vilniusphp) - Engineers are gathering every first Thursday of the month.
 - [VilniusJS](https://www.meetup.com/Vilnius-js/) - Javascript meetup in Vilnius, once a month.
 - [VilniusJUG](http://vilnius-jug.lt/) - Vilnius JUG (Java User Group) - Vilnius Java & JVM enthusiasts.
-- [Vilnius Hack And Tell](https://www.meetup.com/vilnius-hack-and-tell) - Event of [NYC](http://www.meetup.com/hack-and-tell) and [Berlin](https://www.meetup.com/Berlin-Hack-and-Tell) clone. Five minutes to present your project. 
+- [Vilnius Hack And Tell](https://www.meetup.com/vilnius-hack-and-tell) - Event of [NYC](http://www.meetup.com/hack-and-tell) and [Berlin](https://www.meetup.com/Berlin-Hack-and-Tell) clone. Five minutes to present your project.
 - [Technarium](https://www.meetup.com/Technarium) - People with technology-related interests can collaborate, work on their projects, share their knowledge and skills.
 - [Vilnius Blockchain Club](https://www.meetup.com/Vilnius-Blockchain-Club) - This is a group for anyone interested in Blockchain and all related technologies.
 - [Vilnius Tech Leads](http://techleads.lt) - A meetup for Vilnius CTOs, VPs of Engineering, Tech Leads and other technologists, who'd like to share experience and become better leaders.
@@ -88,7 +95,7 @@
 - [Power Hit Radio](http://www.powerhitradio.lt/) - Is a commercial radio station in Lithuania that plays dance music aimed at listeners aged around 15 to 35.
 - [LRT Klasika](http://www.lrt.lt/en/channels/LRT-KLASIKA) - Is a Lithuanian radio channel dedicated to culture and classical music and produced by Lithuanian National Radio and Television (LRT).
 
-## TV & Media
+## TV & Records
 
 - [LRT](http://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija) - Lithuanian National Radio and Television (LRT) is a non-profit public broadcaster that has been providing regular radio services since 1926 and television broadcasts since 1957.
 - [LRT Kultūra](http://www.lrt.lt/mediateka/tiesiogiai/lrt-kultura) - The LRT KULTŪRA main premise is broadcasting of culture, educational, information and regional programming aimed at rallying a larger regional viewer audience.
@@ -109,6 +116,14 @@
 - [Šiauliai TV](http://www.stv.lt/) - Siauliai County Television founded in 1991.
 - [Balticum TV](http://www.balticumtelevizija.lt/) - Balticum TV channel program consists of news, direct news and debates, publicity, entertainment, films.
 - [Balticum Auksinis](http://www.balticum.lt/lt/tv-programos/balticum-auksinis/) - Movies are transmitted every two hours, inserting originally mounted notes between movies. No advertising, no commerce.
+
+## Media
+
+- [We Love Lithuania](https://welovelithuania.com/) - Most beautiful photos of Lithuania.
+
+## Studies
+
+- [The Official Gateway of Studies in Lithuania](http://www.studyinlithuania.lt/en/) - Learn about the possibilities to study in Lithuania in the official gateway to Lithuanian Higher Education!
 
 ## License
 
