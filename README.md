@@ -14,6 +14,7 @@
 - [Tourism](#tourism)
     - [Discovery maps](#discovery-maps)
     - [Events and Guides](#events-and-guides)
+- [Museums](#museums)
 - [History](#history)
 - [Radio](#radio)
 - [TV & Records](#tv--records)
@@ -81,6 +82,11 @@
 - [Vilnius Tourism](http://www.vilnius-tourism.lt/) - Accurate information on Vilnius attractions, events, restaurants, nightlife, shopping, hotels, transportation and much more.
 - [Vilnius Events](http://www.vilnius-events.lt/en/) - Vilnius cultural calendar is full of events. Event calendar with concerts, theatre, shows, opera, sports, etc.
 - [Vilnius City Card's](http://www.vilnius-tourism.lt/en/vtic/services/vilnius-city-card/) - Get your city card to travel at Vilnius with public transport.
+
+## Museums
+
+- [Planetarium](http://planetarium.tfai.vu.lt/) - Planetarium based by Vilnius University. Once in a country specialised astronomy and nature science centre.
+- [Money Museum](http://www.pinigumuziejus.lt/en/) - Free informative tours in the Money Museum!
 
 ## History
 
